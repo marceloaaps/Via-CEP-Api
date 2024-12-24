@@ -7,7 +7,7 @@ O código foi feito pensando em práticas teóricas futuras, na possibilidade da
 - Java 
 - Maven
 - Via CEP API
-- Gson
+- Gson (é com G mesmo kkkkk)
 
 ## Aprendizados <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="20px"/>
 - Clean Architecure
